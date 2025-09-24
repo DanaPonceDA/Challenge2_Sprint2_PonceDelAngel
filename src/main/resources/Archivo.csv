@@ -1,4 +1,4 @@
-"Name","Gender","Age"
-"Melani","Female","12"
-"Penelope","Female","58"
-" Gomez","Male","42"
+"Id","Name","Gender","Age","Principal Number","Adress"
+"1","Cristobal","Male","33","8485869322","Calle Aguaviva #89"
+"2","Lindsay ","Female","58","695213257","Calle Union #89"
+"3"," Mario","Male","42","8267039145","Calle Lazaro #89"
