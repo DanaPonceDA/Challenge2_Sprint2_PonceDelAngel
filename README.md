@@ -1,7 +1,12 @@
-This project is for Sprint 2 of "Back End in Java for Information Processing."
+This project is for Sprint 3 of "Back End in Java for Information Processing."
 
-The project is to convert JSON files to CSV.
+Checklist complete. 
+JSON file Reading. 
+Data transformation.
+CVS file writing.
+Transformation Algorithm.
+Data validation. 
+JavaDoc Documention. 
 
-For this project to work, you must add or change the new fields that will be converted from the JSON file in the User class.
-
-I added three fields: "name" (String), "age" (Integer), and "gender" (String).
+Old fields: name, age, gender
+New fields: Id, principalNumber, adress. 
