@@ -1,18 +1,27 @@
 [
   {
-    "name": "Melani",
-    "gender": "Female",
-    "age": 12
+    "id": 1,
+    "name": "Cristobal",
+    "gender": "Male",
+    "age": 33,
+    "principalNumber" : "8485869322",
+    "adress": "Calle Aguaviva #89"
   },
   {
-    "name": "Penelope",
+    "id": 2,
+    "name": "Lindsay ",
     "gender": "Female",
-    "age": 58
+    "age": 58,
+    "principalNumber" : "695213257",
+    "adress": "Calle Union #89"
 
   },
   {
-    "name": " Gomez",
+    "id": 3,
+    "name": " Mario",
     "gender": "Male",
-    "age": 42
+    "age": 42,
+    "principalNumber" : "8267039145",
+    "adress": "Calle Lazaro #89"
   }
 ]
